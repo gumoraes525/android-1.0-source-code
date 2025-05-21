@@ -111,5 +111,5 @@
   <project path="external/yaffs2" name="platform/external/yaffs2.git" />
   <project path="external/zlib" name="platform/external/zlib.git" />
   
-  <project path="vendor/asus/eee_701" name="platform/vendor/asus/eee_701.git" remote="cupcake" />
+  <project path="vendor/asus/eee_701" name="platform/vendor/asus/eee_701.git" remote="master" />
 </manifest>
