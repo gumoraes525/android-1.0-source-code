@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="master" fetch="https://android-git.linaro.org/" />
+  <remote name="master" fetch="http://android-git.linaro.org/" />
   <default revision="release-1.0" remote="master" />
 
   <project path="build" name="platform/build.git">
